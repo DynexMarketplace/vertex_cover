@@ -1,6 +1,11 @@
-# "hello world" Template
-Hello World Template shows you how to run your first computation on <strong>Dynex</strong>
+# Dynex SDK Template
 
-<p style="color: green;">FREE TEMPLATE (DYNEX DEVELOPERS)</p>
+Dynex is the world’s only accessible neuromorphic quantum computing cloud for solving real-world problems, at scale.
 
-Dynex is the world’s first neuromorphic supercomputing blockchain based on the DynexSolve chip algorithm, a Proof-of-Useful-Work (PoUW) approach to solving real-world problems. The Dynex SDK is used to interact and compute on the Dynex Platform.
+# Usage
+
+1. Launch in Github Codespaces and wait until the codepsace is fully initialised
+
+2. Add your account keys by drag&drop of your dynex.ini into the main folder
+
+3. Run the demo by opening the Jupyter notebook file *.ipynb
